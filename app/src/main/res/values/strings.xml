@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">journaldev</string>
+    <string name ="empty_list_text"></string>
+    <string name ="enter_title"></string>
+    <string name="enter_desc"></string>
+    <string name="add_record"></string>
+    <string name="btn_delete"></string>
+    <string name="btn_update"></string>
+</resources>
